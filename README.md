@@ -1,4 +1,4 @@
-# Atlas of Regional Molecular Specialization in the Human Brain Vasculature
+# Regional Molecular Specialization in the Human Brain Vasculature
 
 A single-nucleus RNA-seq (snRNA-seq) atlas of vascular and vascular-adjacent cell types in the human brain.
 
