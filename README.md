@@ -59,4 +59,4 @@ VasQ is a custom AI agent that integrates our snRNA-seq atlas with biomedical kn
 ## Contact
 
 For questions regarding the dataset or code, please contact:
-- **Alona Isakova**: isakova@stanford.edu
+- **Alina Isakova**: isakova@stanford.edu
