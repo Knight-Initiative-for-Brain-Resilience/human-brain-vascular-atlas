@@ -6,9 +6,9 @@ A single-nucleus RNA-seq (snRNA-seq) atlas of vascular and vascular-adjacent cel
 
 <!-- FIGURE PLACEHOLDER: Replace the block below with your introductory figure -->
 <p align="center">
-  <img src="./Fig_1.png" alt="Overview figure" width="800"/>
+  <img src="./figures/Overview_figure.png" alt="Overview figure" width="800"/>
   <br>
-  <em>Figure 1. Overview of the Human Brain Vascular Atlas.</em>
+  <em>Project data overview.</em>
 </p>
 <!-- END FIGURE PLACEHOLDER -->
 
@@ -27,7 +27,7 @@ The dataset captures **443,443 high-quality nuclei** across all major vascular a
 ## Content
 
 ```
-├── Final_notebook/          # snRNA-seq QC, doublet removal, ambient RNA correction
+└── Final_notebook/          # snRNA-seq QC, doublet removal, ambient RNA correction
     ├── Preprocessing
     ├── Cell class analyses
     ├── Trajectory analysis
