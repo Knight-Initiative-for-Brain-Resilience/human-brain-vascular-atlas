@@ -27,7 +27,7 @@ The dataset captures **443,443 high-quality nuclei** across all major vascular a
 ## Content
 
 ```
-└── Final_notebook/          # snRNA-seq QC, doublet removal, ambient RNA correction
+└── Final_notebook/         
     ├── Preprocessing
     ├── Cell class analyses
     ├── Trajectory analysis
@@ -35,6 +35,11 @@ The dataset captures **443,443 high-quality nuclei** across all major vascular a
     ├── Cross-cell type analysis
     ├── Brain region visualization
     └── EWCE analysis
+└── Revision_notebook/         
+    ├── Regional DEG sensitivity analyses
+    ├── Fibroblast regional specificity 
+    ├── Endothelial ridge plot & peudotime trend
+    └── Updating Fig 5 panels
 ```
 
 ---
