@@ -55,9 +55,9 @@ The dataset captures **443,443 high-quality nuclei** across all major vascular a
 
 ## VasQ
 
-VasQ is a custom AI agent that integrates our snRNA-seq atlas with biomedical knowledge graphs (SPOKE) and web search to support CNS drug delivery hypothesis generation.
+VasQ is an AI chat system for exploring a human brain vascular single-nucleus RNA-seq atlas and generating biomedical hypotheses about blood-brain barrier biology, regional vascular specialization, and drug delivery.
 
-- Code and instructions: https://github.com/Knight-Initiative-for-Brain-Resilience/VasQ-assistant
+- Implementation and instructions: https://github.com/Knight-Initiative-for-Brain-Resilience/VasQ-assistant
 
 ---
 
